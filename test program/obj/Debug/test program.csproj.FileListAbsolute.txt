@@ -1,0 +1,10 @@
+C:\Users\daniil\source\repos\test program\test program\bin\Debug\test program.exe.config
+C:\Users\daniil\source\repos\test program\test program\bin\Debug\test program.exe
+C:\Users\daniil\source\repos\test program\test program\bin\Debug\test program.pdb
+C:\Users\daniil\source\repos\test program\test program\bin\Debug\InspectorLib.dll
+C:\Users\daniil\source\repos\test program\test program\bin\Debug\InspectorLib.pdb
+C:\Users\daniil\source\repos\test program\test program\obj\Debug\test program.csproj.AssemblyReference.cache
+C:\Users\daniil\source\repos\test program\test program\obj\Debug\test program.csproj.CoreCompileInputs.cache
+C:\Users\daniil\source\repos\test program\test program\obj\Debug\test pro.D833E0E0.Up2Date
+C:\Users\daniil\source\repos\test program\test program\obj\Debug\test program.exe
+C:\Users\daniil\source\repos\test program\test program\obj\Debug\test program.pdb
